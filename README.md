@@ -1,8 +1,17 @@
-# React + Vite
+This webpage is used to read blog.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is various blog in Full Stack Development, Cyber Security, Data Science, Career.
 
-Currently, two official plugins are available:
+Its fully Responsive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Used Tools
+Html
+CSS
+Bootstrap
+Javascript
+React JS
+Npm Packages are used:
+https://www.npmjs.com/package/bootstrap
+https://www.npmjs.com/package/@fontsource/poppins
+https://www.npmjs.com/package/react-router-dom
+Deployed URL
